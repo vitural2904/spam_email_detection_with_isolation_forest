@@ -124,7 +124,7 @@ for min_df in range(5, 15):
 
 
 # output the optimizing result
-with open("src/results/optimizing_result.txt", "w") as f:
-    f.write(optimizing_result)
+# with open("src/results/optimizing_result.txt", "w") as f:
+#    f.write(optimizing_result)
 
 '''-----------------------------'''

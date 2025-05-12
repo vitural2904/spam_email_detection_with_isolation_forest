@@ -1,0 +1,7 @@
+=== Evaluation for Dataset 2 (40% spam) ===
+              precision  recall  f1-score     support
+0.0              0.8911  0.8978    0.8944   5000.0000
+1.0              0.9079  0.8909    0.8993   5000.0000
+accuracy         0.8971  0.8971    0.8971      0.8971
+macro avg        0.9131  0.9093    0.9112  10000.0000
+weighted avg     0.8978  0.9109    0.9043  10000.0000
